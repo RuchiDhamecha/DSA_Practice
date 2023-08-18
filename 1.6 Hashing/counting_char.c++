@@ -4,3 +4,6 @@
 // A = 65
 // a = 97
 // z = 122
+
+#include<bits/stdc++.h>
+using namespace std;
