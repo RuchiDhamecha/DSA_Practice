@@ -37,7 +37,7 @@ int arr[n];
         cout<<"no whose occurance in array to be found: ";
         cin>>num;
         cout<<"no of times occured"<<hashh[num]; //it will return the no of times num is present in the array.
-
+    
     }
 return 0;
 }
