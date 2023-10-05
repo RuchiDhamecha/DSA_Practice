@@ -1,10 +1,13 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//in this code we will store no. of occurance of elememts in an array
+//in this code we will store no. of occurance / frequenccy of elememts in an array
+
 //by storing the no. of occurance of each element in the map using key value pair 
 //where key is element and value is no. of times elemt has occured 
 //using mpp[arr[i]]++
+
+//this map is ordered map so all the elements will stored on ordered way..even though we add arr in unordered way it will stored in map in orderderred way
 
 //in map we store key value pair
 //keyy == i.first
