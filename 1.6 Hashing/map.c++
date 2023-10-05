@@ -16,7 +16,12 @@ int main(){
    int arr[n];
    for(int i=0;i<n;i++){
     cin>>arr[i];
+    // mpp[arr[i]]++;    //can write it here as well
+    //but it will not make any diff in execution time as for 2 for loop complexity is O(2n) == O(n)
    }
+
+
+   //declared map named as mpp
    map<int,int>mpp;
    for(int i=0;i<n;i++){
     mpp[arr[i]]++;
