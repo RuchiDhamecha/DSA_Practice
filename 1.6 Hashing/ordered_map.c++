@@ -3,19 +3,19 @@ using namespace std;
 
 //in this code we will store no. of occurance / frequenccy of elememts in an array
 
-//for strong as well its same we dont need to convert in ascii value
+//for string as well its same we dont need to convert in ascii value
 
 //by storing the no. of occurance of each element in the map using key value pair 
 //where key is element and value is no. of times elemt has occured 
 //using mpp[arr[i]]++
 
-//this map is ordered map so all the elements will stored on ordered way..even though we add arr in unordered way it will stored in map in orderderred way
+//this map is ordered map so all the elements will stored on ordered way..even though we add arr in unordered way it will stored in map in ordered way
 
 // TIME COMPLEXITY =====================================================
 // Storing & fetching == O(n) == best/worst/average case
 
 //in map we store key value pair
-//keyy == i.first
+//key == i.first
 //value == i.second
 int main(){
    int n;

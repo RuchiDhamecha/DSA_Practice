@@ -1,5 +1,8 @@
 // selection sort
-  
+
+// Time Complexity == O(n^2) == best avg worst ===================
+
+
 //  in this sort 
 //  iterate array til n-2 instead of n-1
 //  n-2 is the last element of the array, which will be automatically sorted till we reach there from started sorting from 1st

@@ -16,10 +16,10 @@ using namespace std;
 
 // so it is better in complexity than ordered map as it has O(n) complexity
 // so always use unordered_map 
-// in worst case if time limit exeeds then only use ordered map
+// in worst case if time limit exceeds then only use ordered map
 
 //in map we store key value pair
-//keyy == i.first
+//key == i.first
 //value == i.second
 int main(){
    int n;
